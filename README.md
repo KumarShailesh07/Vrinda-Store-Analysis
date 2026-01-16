@@ -20,33 +20,6 @@ The objective of this project is to:
 
 ## 🗂 Dataset Overview
 
-Each row in the dataset represents one order.  
-Main columns:
-
-- **Index** – Row number
-- **Order ID** – Unique order identifier
-- **Customer ID** – Unique customer identifier
-- **Gender** – Men / Women
-- **Age** – Customer age
-- **Age Group** – Teenager / Adult / Senior
-- **Order Date**
-- **Month**
-- **Order Status** – Delivered, Cancelled, Returned, Refunded
-- **Sales Channel** – Amazon, Flipkart, Myntra, Ajio, Meesho, Nalli, Others
-- **SKU** – Product code
-- **Category** – Kurta, Set, Saree, Top, Western Dress, etc.
-- **Size** – XS, S, M, L, XL, XXL, 3XL
-- **Quantity**
-- **Currency** – INR
-- **Amount**
-- **Shipping City**
-
----
-
-## 📄 Excel Sheets Description
-
-Each row represents one customer order with the following fields:
-
 - **index** – Row number  
 - **Order ID** – Unique order identifier  
 - **Cust ID** – Unique customer ID  
