@@ -177,7 +177,7 @@ All charts update dynamically based on slicer selection.
 **Shailesh Kumar**  
 Aspiring Data Analyst | Excel | Power BI | SQL | Python  
 LinkedIn: *www.linkedin.com/in/shailesh-kumar7*  
-GitHub: *Your GitHub profile*
+GitHub: *https://github.com/KumarShailesh07*
 
 ---
 
