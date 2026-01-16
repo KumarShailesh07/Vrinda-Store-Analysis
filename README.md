@@ -45,47 +45,74 @@ The objective of this project is to:
 
 ## 📊 Dashboard Components Explained
 
-### 1. Order vs Sales (Monthly Trend)
-- Combination of column and line chart
-- Shows:
-  - Monthly total sales
-  - Monthly total orders
-- Identifies seasonal demand patterns
+The dashboard is divided into multiple interactive report pages, each focusing on a specific business question.
 
-### 2. Sales by Gender
-- Pie chart
-- Women: 64%  
-- Men: 36%  
-- Indicates women are the primary customer segment
+### 1. Vrinda Store Report 2022 (Main Dashboard)
+- Complete annual performance overview
+- Combines all KPIs, charts, and slicers in one view
+- Used by management for quick decision-making
 
-### 3. Order Status Analysis
-- Pie chart
-- Delivered: 92%  
-- Cancelled: 3%  
-- Returned: 3%  
-- Refunded: 2%  
-- Reflects strong fulfillment performance
+### 2. Sales vs Order
+- Line and column chart showing:
+  - Monthly total sales amount
+  - Monthly total order count
+- Helps identify:
+  - Peak sales months
+  - Seasonal demand patterns
+  - Order-volume vs revenue relationship
 
-### 4. Top 5 States by Revenue
-- Horizontal bar chart
-- Maharashtra, Karnataka, Uttar Pradesh, Telangana, Tamil Nadu
-- Helps target high-value regions
+### 3. Men vs Women
+- Pie chart comparing gender-wise sales contribution
+- Shows that:
+  - Women generate the majority of revenue
+  - Men contribute a smaller but significant share
+- Useful for customer segmentation and targeted marketing
 
-### 5. Age Group vs Gender
+### 4. Order Status
+- Pie chart of:
+  - Delivered
+  - Cancelled
+  - Returned
+  - Refunded
+- Used to analyze:
+  - Logistics performance
+  - Customer satisfaction
+  - Return and cancellation rates
+
+### 5. Top 5 State Sales
+- Bar chart of top revenue-generating states
+- Identifies:
+  - High-demand regions
+  - Regional sales concentration
+- Helps in inventory planning and regional marketing
+
+### 6. Order Relation: Age vs Gender
 - Clustered column chart
-- Shows purchasing behavior of:
-  - Teenagers
-  - Adults
-  - Seniors
-- Adults form the largest buyer segment
+- Compares:
+  - Teenagers, Adults, Seniors
+  - Men vs Women purchase behavior
+- Reveals:
+  - Adults are the largest customer group
+  - Gender-wise buying patterns across age groups
 
-### 6. Sales by Channels
-- Pie chart
-- Amazon (35%), Myntra (23%), Flipkart (22%), Ajio, Meesho, Nalli, Others
-- Amazon is the top revenue contributor
+### 7. Channels Order
+- Pie chart of order and revenue share by platform:
+  - Amazon
+  - Flipkart
+  - Myntra
+  - Ajio
+  - Meesho
+  - Nalli
+  - Others
+- Shows:
+  - Amazon is the highest contributing channel
+  - Marketplace dependency and performance
 
----
-
+### 8. Insights Page
+- Summarized business conclusions
+- Highlights key findings from all visuals
+- Designed for quick executive-level understanding
+  
 ## 🎛 Interactive Slicers
 
 Users can filter the entire dashboard by:
