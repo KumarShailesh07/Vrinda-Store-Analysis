@@ -139,7 +139,8 @@ Below is the snapshot of the interactive Excel dashboard for **Vrinda Store Annu
 - Channel-wise sales contribution  
 - Interactive slicers for Month, Channel, and Category  
 
-![Vrinda Store Annual Report 2022 Dashboard](dashboard.png)
+<img width="637" height="326" alt="Dashboard" src="https://github.com/user-attachments/assets/4740484b-ca1f-4758-a782-a0d750994e0f" />
+
 
 ---
 
