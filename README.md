@@ -127,6 +127,22 @@ All charts update dynamically based on slicer selection.
 
 ---
 
+## 🖼 Dashboard Preview
+
+Below is the snapshot of the interactive Excel dashboard for **Vrinda Store Annual Report 2022** showing:
+
+- Monthly Order vs Sales trend  
+- Gender-wise sales distribution  
+- Order status performance  
+- Top 5 revenue-generating states  
+- Age group vs Gender analysis  
+- Channel-wise sales contribution  
+- Interactive slicers for Month, Channel, and Category  
+
+![Vrinda Store Annual Report 2022 Dashboard](dashboard.png)
+
+---
+
 ## 📈 Key Business Insights
 
 - Women contribute the majority of revenue.
