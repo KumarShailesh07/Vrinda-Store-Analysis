@@ -113,6 +113,8 @@ The dashboard is divided into multiple interactive report pages, each focusing o
 - Highlights key findings from all visuals
 - Designed for quick executive-level understanding
   
+---
+
 ## 🎛 Interactive Slicers
 
 Users can filter the entire dashboard by:
